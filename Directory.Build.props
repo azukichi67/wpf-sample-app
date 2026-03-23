@@ -1,0 +1,12 @@
+<Project>
+
+  <PropertyGroup>
+    <!-- アナライザーが .editorconfig のルールを適用する -->
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+    <!-- アナライザーの警告を有効化 -->
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>
+    <!-- アナライザーの解析レベル (latest-recommended 推奨) -->
+    <AnalysisLevel>latest-recommended</AnalysisLevel>
+  </PropertyGroup>
+
+</Project>

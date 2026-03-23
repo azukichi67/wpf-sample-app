@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SampleApp.CLI/SampleApp.CLI.csproj" Id="a80662bd-1314-4da4-9d4d-b97bdcd4a79f" />
+  <Project Path="SampleApp.Core.Tests/SampleApp.Core.Tests.csproj" Id="5e44bcd0-6336-4e91-b4ae-f1edbb7c40e3" />
+  <Project Path="SampleApp.Core/SampleApp.Core.csproj" Id="2900d98e-4a46-4b3b-88c5-4f9e87b67025" />
+  <Project Path="SampleApp.UI.Tests/SampleApp.UI.Tests.csproj" Id="aab320e9-fef6-43ce-9cfa-16504520f302" />
+  <Project Path="SampleApp.UI/SampleApp.UI.csproj" />
+</Solution>
